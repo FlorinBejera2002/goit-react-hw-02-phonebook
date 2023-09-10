@@ -1,4 +1,4 @@
-# React homework template
+# React homework templa
 
 Este proyecto fue creado con la ayuda de
 [Create React App](https://github.com/facebook/create-react-app).
